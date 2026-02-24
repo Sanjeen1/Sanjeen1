@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" length= "200" width="600">
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" height= "200" width="600">
 </p>
 
 ## 🌐 Socials:
