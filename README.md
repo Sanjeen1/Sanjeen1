@@ -1,69 +1,52 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">VLSI & Electrical Engineer | Digital Design | Power Systems Enthusiast</h3>
+<h1 align="center">Hi there 👋 I'm Shubham</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjeen1&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+VLSI & Electrical Engineer ⚡ | Digital Design | Power Systems
 </p>
 
 ---
 
-## 👨‍💻 About Me
+I am a VLSI and Electrical Engineering enthusiast with strong interest in semiconductor design, RTL development and core electrical systems.  
+I enjoy building hardware-based projects, solving engineering problems and continuously improving my core fundamentals.
 
-- 🔭 Passionate about **VLSI Design & Semiconductor Technology**
-- ⚡ Strong foundation in **Digital Electronics, CMOS & Power Systems**
-- 🧠 Interested in **RTL Design, Physical Design & Verification**
-- 🛠 Love building projects combining **Hardware + Programming**
-- 📈 Preparing for core engineering opportunities & research roles
-- 💬 Ask me about Digital Circuits, Control Systems & GATE concepts
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming
-C | C++ | Python
-
-### 🔌 VLSI & Hardware
-Verilog | SystemVerilog | FPGA | CMOS Design
-
-### ⚙ Core Electrical
-Power Systems | Control Systems | Electrical Machines | Power Electronics
-
-### 🧰 Tools
-Cadence | Synopsys | ModelSim | Xilinx Vivado | MATLAB
+- 🔭 I’m currently working on Digital & VLSI based projects  
+- 🌱 I’m currently learning Physical Design & STA  
+- 👯 I’m looking to collaborate on VLSI / FPGA / Core Electrical projects  
+- 💬 Ask me about Digital Electronics, Control Systems & GATE subjects  
+- 📫 How to reach me: sanjeen598@gmail.com  
+- ⚡ Fun fact: I enjoy solving tough engineering problems  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeen1&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeen1&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🛠 Tech Stack
 
-- Physical Design Flow
-- Static Timing Analysis (STA)
-- Low Power VLSI
-- Advanced Verification Methodologies
+**Languages:**  
+C | C++ | Python  
+
+**VLSI & Hardware:**  
+Verilog | FPGA | CMOS | Digital Design  
+
+**Core Electrical:**  
+Power Systems | Control Systems | Electrical Machines | Power Electronics  
+
+**Tools:**  
+Cadence | Synopsys | Vivado | MATLAB | ModelSim  
 
 ---
 
 ## 📄 Resume
 
-📎 [View My Resume](YOUR_RESUME_LINK_HERE)
+📎 [View My Resume](PASTE_YOUR_RESUME_LINK_HERE)
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 📧 Email: sanjeen598@gmail.com
-- 🌐 GitHub: https://github.com/Sanjeen1
-
----
-
-⭐ *"Designing circuits today that power the technology of tomorrow."*
+⭐ *“Engineering solutions at transistor level and system level.”*
