@@ -5,7 +5,7 @@
 # 💻 Skills:
 ![Synopsys Sentaurus TCAD](https://img.shields.io/badge/Synopsys%20Sentaurus%20TCAD%20tool-blue?style=for-the-badge)
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-red?style=for-the-badge)
-![Cadence Spectre](https://img.shields.io/badge/Cadence%20Spectre-Circuit%20Simulation-orange?style=for-the-badge)
+![Cadence Spectre](https://img.shields.io/badge/Cadence%20Spectre-orange?style=for-the-badge)
 ![Intel Quartus Prime](https://img.shields.io/badge/Intel%20Quartus%20Prime-FPGA-blueviolet?style=for-the-badge)
 ![Magic VLSI](https://img.shields.io/badge/Magic%20VLSI-Layout-green?style=for-the-badge)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Design-darkblue?style=for-the-badge)
