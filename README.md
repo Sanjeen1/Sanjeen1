@@ -22,6 +22,21 @@
 ![OriginPro](https://img.shields.io/badge/OriginPro-Data%20Analysis-orange?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Verification-00599C?style=for-the-badge)
 
+## ⚙️ Practical Skills
+![D Latch Characterization](https://img.shields.io/badge/D%20Latch-Characterization-blue?style=for-the-badge)
+![CMOS Inverter](https://img.shields.io/badge/CMOS%20Inverter-Design-red?style=for-the-badge)
+![MOSFET](https://img.shields.io/badge/MOSFET-Device%20Analysis-green?style=for-the-badge)
+![SRAM Cell](https://img.shields.io/badge/SRAM%20Cell-Design-orange?style=for-the-badge)
+![FinFET](https://img.shields.io/badge/FinFET-Technology-blueviolet?style=for-the-badge)
+![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-Yosys-darkblue?style=for-the-badge)
+![Device Modeling](https://img.shields.io/badge/Device%20Modeling-Sentaurus%20TCAD-teal?style=for-the-badge)
+![SPICE Simulation](https://img.shields.io/badge/SPICE%20Simulation-Ngspice-yellow?style=for-the-badge)
+![Circuit Schematic](https://img.shields.io/badge/Circuit%20Schematic-LTspice%20%2F%20Xschem-lightgrey?style=for-the-badge)
+![STA](https://img.shields.io/badge/STA-OpenSTA-purple?style=for-the-badge)
+![LVS Check](https://img.shields.io/badge/LVS-Netgen-success?style=for-the-badge)
+![Layout Design](https://img.shields.io/badge/Layout-Magic%20VLSI-black?style=for-the-badge)
+![Cadence Virtuoso Layout](https://img.shields.io/badge/Cadence%20Virtuoso-Layout%20Design-00599C?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=tokyonight)
