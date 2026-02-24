@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
 
 # 💻 Skills:
-![Synopsys Sentaurus TCAD tool](https://img.shields.io/badge/Synopsys%20Sentaurus%20TCAD%20tool-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Synopsys Sentaurus TCAD tool](https://badge/Synopsys%20Sentaurus%20TCAD%20tool-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Cadence Virtuoso](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Cadence Spectre](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Intel Quartus Prime](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
