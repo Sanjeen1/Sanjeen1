@@ -29,13 +29,7 @@
 ![SRAM Cell](https://img.shields.io/badge/SRAM%20Cell-Design-orange?style=for-the-badge)
 ![FinFET](https://img.shields.io/badge/FinFET-Technology-blueviolet?style=for-the-badge)
 ![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-Yosys-darkblue?style=for-the-badge)
-![Device Modeling](https://img.shields.io/badge/Device%20Modeling-Sentaurus%20TCAD-teal?style=for-the-badge)
-![SPICE Simulation](https://img.shields.io/badge/SPICE%20Simulation-Ngspice-yellow?style=for-the-badge)
-![Circuit Schematic](https://img.shields.io/badge/Circuit%20Schematic-LTspice%20%2F%20Xschem-lightgrey?style=for-the-badge)
-![STA](https://img.shields.io/badge/STA-OpenSTA-purple?style=for-the-badge)
-![LVS Check](https://img.shields.io/badge/LVS-Netgen-success?style=for-the-badge)
-![Layout Design](https://img.shields.io/badge/Layout-Magic%20VLSI-black?style=for-the-badge)
-![Cadence Virtuoso Layout](https://img.shields.io/badge/Cadence%20Virtuoso-Layout%20Design-00599C?style=for-the-badge)
+
 
 # 📊 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
