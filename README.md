@@ -17,7 +17,7 @@
 ![Yosys](https://img.shields.io/badge/Yosys-Synthesis-success?style=for-the-badge)
 ![Xschem](https://img.shields.io/badge/Xschem-Schematic-brightgreen?style=for-the-badge)
 ![Netgen](https://img.shields.io/badge/Netgen-LVS-purple?style=for-the-badge)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-Physical%20Design-black?style=for-the-badge)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-Physical%20Design-violet?style=for-the-badge)
 ![OpenSTA](https://img.shields.io/badge/OpenSTA-Timing%20Analysis-blue?style=for-the-badge)
 ![OriginPro](https://img.shields.io/badge/OriginPro-Data%20Analysis-orange?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Verification-00599C?style=for-the-badge)
