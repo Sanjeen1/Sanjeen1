@@ -33,16 +33,16 @@
 ## 💻 Technical Skills
 
 ![UART Protocol](https://img.shields.io/badge/UART-Protocol-blue?style=for-the-badge)
-![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing-Analysis-red?style=for-the-badge)
-![SPICE Simulation](https://img.shields.io/badge/SPICE-Simulation-orange?style=for-the-badge)
-![Cell Layout](https://img.shields.io/badge/Cell%20Layout-Characterization-green?style=for-the-badge)
-![CMOS VLSI](https://img.shields.io/badge/CMOS-VLSI-blueviolet?style=for-the-badge)
-![RTL Design](https://img.shields.io/badge/RTL-Design-darkblue?style=for-the-badge)
-![Physical Design](https://img.shields.io/badge/Physical-Design-black?style=for-the-badge)
-![Digital IC Design](https://img.shields.io/badge/Digital%20IC-Design-teal?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-yellow?style=for-the-badge)
-![RTL Synthesis](https://img.shields.io/badge/RTL-Synthesis-success?style=for-the-badge)
-![Device Physics](https://img.shields.io/badge/Device-Physics-purple?style=for-the-badge)
+![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing%20Analysis-red?style=for-the-badge)
+![SPICE Simulation](https://img.shields.io/badge/SPICE%20Simulation-orange?style=for-the-badge)
+![Cell Layout](https://img.shields.io/badge/Cell%20Layout%20Characterization-green?style=for-the-badge)
+![CMOS VLSI](https://img.shields.io/badge/CMOS%20VLSI-blueviolet?style=for-the-badge)
+![RTL Design](https://img.shields.io/badge/RTL%20Design-darkblue?style=for-the-badge)
+![Physical Design](https://img.shields.io/badge/Physical%20Design-black?style=for-the-badge)
+![Digital IC Design](https://img.shields.io/badge/Digital%20IC%20Design-teal?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge)
+![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-success?style=for-the-badge)
+![Device Physics](https://img.shields.io/badge/Device%20Physics-purple?style=for-the-badge)
 
 
 # 📊 GitHub Stats:
