@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1d2V1Y2xoZWw4c2Q0dDNiajlqbm9oZnBhZ2FhMHR6Y2JseHFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="500" height="500">
-</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
@@ -48,6 +46,9 @@
 ![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-success?style=for-the-badge)
 ![Device Physics](https://img.shields.io/badge/Device%20Physics-purple?style=for-the-badge)
 
+<p align="center">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1d2V1Y2xoZWw4c2Q0dDNiajlqbm9oZnBhZ2FhMHR6Y2JseHFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="500" height="500">
+</p>
 
 # 📊 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
