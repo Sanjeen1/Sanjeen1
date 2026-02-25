@@ -24,16 +24,13 @@
 ![OriginPro](https://img.shields.io/badge/OriginPro-Data%20Analysis-orange?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Verification-00599C?style=for-the-badge)
 
-## ⚙️ Practical Skills
+## ⚙️ Skills
 ![D Latch Characterization](https://img.shields.io/badge/D%20Latch-Characterization-blue?style=for-the-badge)
 ![CMOS Inverter](https://img.shields.io/badge/CMOS%20Inverter-Design-red?style=for-the-badge)
 ![MOSFET](https://img.shields.io/badge/MOSFET-Device%20Analysis-green?style=for-the-badge)
 ![SRAM Cell](https://img.shields.io/badge/SRAM%20Cell-Design-orange?style=for-the-badge)
 ![FinFET](https://img.shields.io/badge/FinFET-Technology-blueviolet?style=for-the-badge)
 ![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-Yosys-darkblue?style=for-the-badge)
-
-## 💻 Technical Skills
-
 ![UART Protocol](https://img.shields.io/badge/UART-Protocol-blue?style=for-the-badge)
 ![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing%20Analysis-red?style=for-the-badge)
 ![SPICE Simulation](https://img.shields.io/badge/SPICE%20Simulation-orange?style=for-the-badge)
