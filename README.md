@@ -13,8 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate VLSI Engineer with a strong interest in semiconductor technology and integrated circuit design. My work focuses on CMOS VLSI design, RTL development, physical design flow, and static timing analysis using modern EDA tools. I enjoy exploring device physics, circuit characterization, and layout design while working in Linux-based environments. I am continuously enhancing my knowledge in ASIC design methodologies and advanced semiconductor technologies, with the goal of contributing to efficient, high-performance, and scalable silicon solutions for next-generation hardware systems.
-
+I am a Electrical Engineer with a good technical knowledge in Digital and Analog Electronics. I enjoy exploring Analog and Digital Circuits, CMOS device performance, Spice simulation, circuit characterization and layout design. 
 <p align="center">
   <a href="https://drive.google.com/file/d/1v9AqOme_9mWDZXrGtGvYl1qdthTJR91J/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
