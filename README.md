@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
+
 ## 👨‍💻 About Me
 
 🔬 VLSI Engineer passionate about semiconductor and integrated circuit design  
@@ -8,8 +11,7 @@
 📚 Continuously learning advanced VLSI and semiconductor technologies  
 🚀 Aspiring to contribute to next-generation chip and hardware innovation
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
+
 
 
 # 💻 Skills:
