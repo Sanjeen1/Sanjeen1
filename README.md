@@ -37,26 +37,9 @@ I am a passionate VLSI Engineer with a strong interest in semiconductor technolo
 ![OpenSTA](https://img.shields.io/badge/OpenSTA-Timing%20Analysis-blue?style=for-the-badge)
 ![OriginPro](https://img.shields.io/badge/OriginPro-Data%20Analysis-orange?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Verification-00599C?style=for-the-badge)
-
-## ⚙️ Skills
-![D Latch Characterization](https://img.shields.io/badge/D%20Latch-Characterization-blue?style=for-the-badge)
-![CMOS Inverter](https://img.shields.io/badge/CMOS%20Inverter-Design-red?style=for-the-badge)
-![MOSFET](https://img.shields.io/badge/MOSFET-Device%20Analysis-green?style=for-the-badge)
-![SRAM Cell](https://img.shields.io/badge/SRAM%20Cell-Design-orange?style=for-the-badge)
-![FinFET](https://img.shields.io/badge/FinFET-Technology-blueviolet?style=for-the-badge)
-![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-Yosys-darkblue?style=for-the-badge)
-![UART Protocol](https://img.shields.io/badge/UART-Protocol-blue?style=for-the-badge)
-![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing%20Analysis-red?style=for-the-badge)
-![SPICE Simulation](https://img.shields.io/badge/SPICE%20Simulation-orange?style=for-the-badge)
-![Cell Layout](https://img.shields.io/badge/Cell%20Layout%20Characterization-green?style=for-the-badge)
-![CMOS VLSI](https://img.shields.io/badge/CMOS%20VLSI-blueviolet?style=for-the-badge)
-![RTL Design](https://img.shields.io/badge/RTL%20Design-darkblue?style=for-the-badge)
-![Physical Design](https://img.shields.io/badge/Physical%20Design-black?style=for-the-badge)
-![Digital IC Design](https://img.shields.io/badge/Digital%20IC%20Design-teal?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge)
-![RTL Synthesis](https://img.shields.io/badge/RTL%20Synthesis-success?style=for-the-badge)
 ![Device Physics](https://img.shields.io/badge/Device%20Physics-purple?style=for-the-badge)
 ![Device Physics](https://img.shields.io/badge/Verilog-purple?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge)
 
 <p align="center">
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1d2V1Y2xoZWw4c2Q0dDNiajlqbm9oZnBhZ2FhMHR6Y2JseHFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="500" height="500">
