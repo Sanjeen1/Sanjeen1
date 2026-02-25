@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjeen Suman</h1>
 <h2 align="center">Electrical Engineer @ SRMIST | VLSI Design @ NITK</h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
 
@@ -59,7 +61,7 @@ I am a passionate VLSI Engineer with a strong interest in semiconductor technolo
 
 # 📊 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api?username=Sanjeen1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
