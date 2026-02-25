@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Electrical Engineer with a good technical knowledge in Digital and Analog Electronics. I enjoy exploring Analog and Digital Circuits, CMOS device performance, Spice simulation, circuit characterization and layout design. 
+I am a Electrical Engineer with a good technical knowledge in Digital and Analog Electronics. I enjoy exploring Analog and Digital Circuits, CMOS device performance, Spice simulation, cell characterization and layout design. 
 <p align="center">
   <a href="https://drive.google.com/file/d/1v9AqOme_9mWDZXrGtGvYl1qdthTJR91J/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
@@ -54,7 +54,7 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=tokyonight)
