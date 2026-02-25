@@ -3,13 +3,9 @@
 
 ## 👨‍💻 About Me
 
-🔬 VLSI Engineer passionate about semiconductor and integrated circuit design  
-⚡ Skilled in RTL Design, CMOS Technology, and Physical Design Flow  
-🧠 Interested in ASIC Design, Device Modeling, and Timing Analysis  
-🛠 Experience with EDA Tools for circuit simulation and layout development  
-🐧 Comfortable working in Linux-based design environments  
-📚 Continuously learning advanced VLSI and semiconductor technologies  
-🚀 Aspiring to contribute to next-generation chip and hardware innovation
+## 👨‍💻 About Me
+
+I am a passionate VLSI Engineer with a strong interest in semiconductor technology and integrated circuit design. My work focuses on CMOS VLSI design, RTL development, physical design flow, and static timing analysis using modern EDA tools. I enjoy exploring device physics, circuit characterization, and layout design while working in Linux-based environments. I am continuously enhancing my knowledge in ASIC design methodologies and advanced semiconductor technologies, with the goal of contributing to efficient, high-performance, and scalable silicon solutions for next-generation hardware systems.
 
 
 
