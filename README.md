@@ -1,4 +1,12 @@
+## 👨‍💻 About Me
 
+🔬 VLSI Engineer passionate about semiconductor and integrated circuit design  
+⚡ Skilled in RTL Design, CMOS Technology, and Physical Design Flow  
+🧠 Interested in ASIC Design, Device Modeling, and Timing Analysis  
+🛠 Experience with EDA Tools for circuit simulation and layout development  
+🐧 Comfortable working in Linux-based design environments  
+📚 Continuously learning advanced VLSI and semiconductor technologies  
+🚀 Aspiring to contribute to next-generation chip and hardware innovation
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sanjeen598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
