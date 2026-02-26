@@ -22,8 +22,8 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 </p>
 
 
-# 💻 Skills:
-## 🛠 Tools
+
+## 💻 Skills
 
 ![Synopsys Sentaurus TCAD](https://img.shields.io/badge/Synopsys%20Sentaurus%20TCAD-blue?style=for-the-badge)
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-red?style=for-the-badge)
