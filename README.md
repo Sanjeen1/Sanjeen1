@@ -12,7 +12,7 @@
 [![email](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Sanjeensuman_232VL027) 
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 I am a Electrical Engineer with a good technical knowledge in Digital and Analog Electronics. I enjoy exploring Analog and Digital Circuits, CMOS device performance, Spice simulation, cell characterization and layout design. 
 <p align="center">
@@ -23,7 +23,7 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 
 
 
-## 💻 Skills
+## 💻 Skills:
 
 ![Synopsys Sentaurus TCAD](https://img.shields.io/badge/Synopsys%20Sentaurus%20TCAD-blue?style=for-the-badge)
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-red?style=for-the-badge)
@@ -55,7 +55,7 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 </p>
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeen1&show_icons=true&theme=tokyonight)
