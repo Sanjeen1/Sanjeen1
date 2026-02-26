@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeen-suman-b50559347/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sanjeentech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeen598@gmail.com) 
-[![email](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](mailto:https://t.me/https://t.me/Sanjeensuman_232VL027) 
+[![email](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Sanjeensuman_232VL027) 
 
 
 ## 👨‍💻 About Me
