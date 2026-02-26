@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeen Suman</h1>
-<h2 align="center">Electrical Engineer @ SRMIST | VLSI Design @ NITK</h2>
+<h2 align="center">EEE @ SRMIST | VLSI Design @ NITK</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
 
