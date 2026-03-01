@@ -65,9 +65,7 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 ![](https://github-readme-stats.vercel.app/api?username=Sanjeen1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanjeen1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeen1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 [![](https://visitcount.itsvg.in/api?id=Sanjeen1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src= "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thank+You+For+Visiting+My+Profile;👉+Feel+free+to+reach+out." />
+</p>
