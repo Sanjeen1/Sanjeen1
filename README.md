@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjeen1&color=blue)
 
 <p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="500">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
 </p>
 
 ## 🌐 Socials:
@@ -38,15 +38,15 @@ I am a Electrical Engineer with a good technical knowledge in Digital and Analog
 ![Device Physics](https://img.shields.io/badge/Verilog-purple?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge)
 
-<h3 align="left">Languages and Software:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 
-</p>
+
+
+
+
+
 
 <p align="center">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1d2V1Y2xoZWw4c2Q0dDNiajlqbm9oZnBhZ2FhMHR6Y2JseHFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="300" height="500">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1d2V1Y2xoZWw4c2Q0dDNiajlqbm9oZnBhZ2FhMHR6Y2JseHFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xC8sdW7vmG6bRe/giphy.gif" width="300" height="300">
 </p>
 
 
